@@ -1,0 +1,6 @@
+selenium==3.141.0
+behave==1.2.6
+openpyxl==3.0.5
+pynput==1.7.2
+allure-behave==2.8.29
+pyautogui==0.9.52
